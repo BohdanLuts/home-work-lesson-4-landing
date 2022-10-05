@@ -1,0 +1,95 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0px;
+  font-size: 17px;
+  color: #926239;
+  text-align: center;
+  line-height: 1.6;
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+
+header {
+  background: url("http://traversymedia.com/downloads/assets/beachshowcase.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  padding: 0 20px;
+  box-sizing: border-box;
+}
+
+h1 {
+  font-size: 50px;
+  padding-top: 220px;
+}
+
+header p {
+  font-size: 20px;
+  margin-bottom: 30px;
+}
+
+header a {
+  font-size: 18px;
+  color: #926239;
+  text-decoration: none;
+  border: #926239 1px solid;
+  padding: 10px 20px;
+  border-radius: 10px;
+}
+header a:hover {
+  background: #926239;
+  color: #fff;
+}
+
+.firstSomeText {
+  color: #fff;
+  background: #926239;
+  padding: 20px;
+}
+
+.secondSomeText {
+  color: #926239;
+  background: #f4f4f4;
+  padding: 20px;
+}
+
+.textColumns {
+  text-align: left;
+  font-size: 0;
+}
+
+.element1 {
+  color: #fff;
+  background: #926239;
+  padding: 20px;
+  display: inline-block;
+  vertical-align: top;
+  width: 33%;
+  font-size: 17px;
+}
+
+.element2 {
+  background-color: #f9f9f9;
+  padding: 20px;
+  display: inline-block;
+  vertical-align: top;
+  width: 34%;
+  font-size: 17px;
+}
+
+/* header {
+  background: url(https://images.pexels.com/photos/127673/pexels-photo-127673.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+  background-repeat: no-repeat;
+  object-fit: contain;
+  max-width: 1200px;
+  width: 100%;
+  margin: 0 auto;
+  text-align: center;
+  padding: 15px;
+  height: 100vh;
+} */ ;
