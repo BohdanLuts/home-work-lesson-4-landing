@@ -63,33 +63,21 @@ header a:hover {
   font-size: 0;
 }
 
-.element1 {
-  color: #fff;
-  background: #926239;
+.element1,
+.element2 {
   padding: 20px;
   display: inline-block;
   vertical-align: top;
-  width: 33%;
   font-size: 17px;
+}
+
+.element1 {
+  color: #fff;
+  background: #926239;
+  width: 33%;
 }
 
 .element2 {
   background-color: #f9f9f9;
-  padding: 20px;
-  display: inline-block;
-  vertical-align: top;
   width: 34%;
-  font-size: 17px;
 }
-
-/* header {
-  background: url(https://images.pexels.com/photos/127673/pexels-photo-127673.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
-  background-repeat: no-repeat;
-  object-fit: contain;
-  max-width: 1200px;
-  width: 100%;
-  margin: 0 auto;
-  text-align: center;
-  padding: 15px;
-  height: 100vh;
-} */ ;
